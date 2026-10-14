@@ -1,6 +1,6 @@
-# RealtekKiller 1.2 Anti-RAT
+# RealtekKiller Anti-RAT
 
-RealtekKiller 1.2 Anti-RAT is a lightweight Windows security and troubleshooting utility designed to help users investigate suspicious system activity, access important diagnostic tools, and respond to certain situations in which malware interferes with normal Windows operation.
+RealtekKiller  Anti-RAT is a lightweight Windows security and troubleshooting utility designed to help users investigate suspicious system activity, access important diagnostic tools, and respond to certain situations in which malware interferes with normal Windows operation.
 
 The project was created primarily to help users identify and deal with the so-called "RealtekHD" cryptocurrency miner. One of its main purposes is to make it easier to locate suspicious folders associated with this threat and regain access to essential system information when malicious software closes, blocks, or interferes with standard Windows utilities.
 
@@ -70,7 +70,7 @@ Always verify suspicious findings before taking action, avoid deleting system fi
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Development Status and Known Limitations
 
-**RealtekKiller 1.2 Anti-RAT is an early, incomplete testing version and is not a final release.** The project is still under development, and some features may not work as expected.
+**RealtekKiller Anti-RAT is an early, incomplete testing version and is not a final release.** The project is still under development, and some features may not work as expected.
 
 - **Quarantine:** Quarantine operations may contain bugs or behave incorrectly. Always verify the selected file and the result of the operation.
 - **General malware scanning:** Detection of threats other than the RealtekHD miner is limited and may produce false positives or fail to identify certain malicious files. Detection of other miners, RATs, stealers, Trojans, and similar threats is not guaranteed.
@@ -83,7 +83,7 @@ Please use this version with caution. Back up important data, verify suspicious 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ⚠️ IMPORTANT: WINDOWS SMARTSCREEN WARNING
 
-> **Windows SmartScreen may show a security warning when you launch RealtekKiller 1.2 Anti-RAT.**
+> **Windows SmartScreen may show a security warning when you launch RealtekKiller  Anti-RAT.**
 
 **Why does this happen?** The application may not have a verified publisher identity or enough reputation with Microsoft's security services.
 
