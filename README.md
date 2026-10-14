@@ -1,2 +1,4 @@
 # RealtekKiller-Anti-miner
 RealtekKiller 1.2 Anti-RAT is a lightweight Windows security utility featuring process monitoring, suspicious file checks, quarantine options, system statistics, and emergency network controls. Includes English and Russian versions. A supplementary security tool, not a replacement for a full antivirus.
+This utility was created primarily to remove the “RealtekHD” miner. Its first use is to search for Realtek virus folders and to view 2 task managers and 2 CPU/GPU settings if the virus closes them or prevents viewing. There is also a simple anti‑rat tool for quickly disabling the internet and viewing suspicious folders to detect stealer, rat, miner, or Trojan.
+In short, it’s just a convenient way to view the task manager and CPU/GPU settings in an emergency situation, plus detecting a miner or other viruses.
